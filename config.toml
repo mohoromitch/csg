@@ -1,6 +1,6 @@
-baseURL = "http://compscigang.com"
+baseURL = "http://wiki.ryecscu.com"
 languageCode = "en-ca"
-title = "compscigang"
+title = "CSCU Wiki"
 theme = "hugo-theme-learn"
 
 [params]
