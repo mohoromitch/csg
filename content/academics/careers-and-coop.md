@@ -1,6 +1,7 @@
 ---
 title: "Careers & Co-op"
 date: 2018-03-28T20:58:15-04:00
+weight: 4
 ---
 
 

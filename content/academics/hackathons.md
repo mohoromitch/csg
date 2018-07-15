@@ -1,6 +1,7 @@
 ---
 title: "Hackathons"
 date: 2018-04-28T19:56:31-04:00
+weight: 8
 ---
 
 From Wikipedia:

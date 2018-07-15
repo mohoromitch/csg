@@ -1,6 +1,7 @@
 ---
 title: "Online Resources"
 date: 2018-04-28T19:38:27-04:00
+weight: 2
 ---
 
 ## Online Learning 

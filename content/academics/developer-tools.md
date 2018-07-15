@@ -1,6 +1,7 @@
 ---
 title: "Developer Tools"
 date: 2018-04-25T15:54:38-04:00
+weight: 6
 ---
 
 Many companies allow university students use of their products free of use. Note that some of the licences of the products listed below may only be for educational purposes. 
