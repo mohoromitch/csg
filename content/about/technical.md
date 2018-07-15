@@ -6,11 +6,11 @@ draft: false
 
 ## Summary
 
-This site is a [static site](https://en.wikipedia.org/wiki/Static_web_page), generated with [hugo](https://gohugo.io), written in [markdown](https://en.wikipedia.org/wiki/Markdown), using a modified version of the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn) by [Mathieu Cornic](https://github.com/matcornic). It is autodeployed on [AWS S3](https://aws.amazon.com/s3/) using [AWS CodeBuild](https://aws.amazon.com/codebuild/) whenever the [git repository](https://github.com/mohoromitch/rucs-wiki) on [GitHub](https://github.com) is updated.
+This site is a [static site](https://en.wikipedia.org/wiki/Static_web_page), generated with [hugo](https://gohugo.io), written in [markdown](https://en.wikipedia.org/wiki/Markdown), using a modified version of the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn) by [Mathieu Cornic](https://github.com/matcornic). It is autodeployed on [AWS S3](https://aws.amazon.com/s3/) using [AWS CodeBuild](https://aws.amazon.com/codebuild/) whenever the [git repository](https://github.com/mohoromitch/rucs-wiki) on [GitHub](https://github.com) is updated. Periodically, [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) (Content Distribution Network) checks for updated content and caches them for faster loading across the continent.
 
 ## Static Site
 
-A static site is a website with fixed content. Every page is pre-generated and served directly, without any dynamic elements or backend programming logic. This allows for deployment on S3, which makes hosting the website low maintenance and low cost.
+A static site is a website with fixed content. Every page is pre-generated and served directly, without any dynamic elements or backend programming logic. This allows for deployment on S3 and CloudFront since no servers are required to execute any programming logic. This makes hosting the website low maintenance, low cost and incredibly resilient and available.
 
 ## Hugo
 
