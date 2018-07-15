@@ -6,7 +6,7 @@ draft: false
 
 ## Summary
 
-This site is a [static site](https://en.wikipedia.org/wiki/Static_web_page), generated with [hugo](https://gohugo.io), written in [markdown](https://en.wikipedia.org/wiki/Markdown), using a modified version of the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn) by [Mathieu Cornic](https://github.com/matcornic). It is autodeployed on [AWS S3](https://aws.amazon.com/s3/) using [AWS CodeBuild](https://aws.amazon.com/codebuild/) whenever the [git repository](https://github.com/mohoromitch/rucs-wiki) on [GitHub](https://github.com) is updated. Periodically, [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) (Content Distribution Network) checks for updated content and caches them for faster loading across the continent.
+This site is a [static site](https://en.wikipedia.org/wiki/Static_web_page), generated with [hugo](https://gohugo.io), written in [markdown](https://en.wikipedia.org/wiki/Markdown), using a modified version of the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn) by [Mathieu Cornic](https://github.com/matcornic). It is autodeployed on [AWS S3](https://aws.amazon.com/s3/) using [AWS CodeBuild](https://aws.amazon.com/codebuild/) whenever the [git repository](https://github.com/mohoromitch/csg) on [GitHub](https://github.com) is updated. Periodically, [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) (Content Distribution Network) checks for updated content and caches them for faster loading across the continent.
 
 ## Static Site
 
