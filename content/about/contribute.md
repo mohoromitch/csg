@@ -11,6 +11,6 @@ Clicking that link will open up the page in GitHub, where you can directly edit 
 
 After commiting your changes, you'll be able to create a new pull request for approval. Once approved, changes will take a few minutes since the site must be rebuilt, deployed on s3 and propogated onto the content distribution network edge servers.
 
-The current status of the build is shown by the badge below. Once successful changes take around 5 minues to propogate. 
+The current status of the build is shown by the badge below. Once the new commit builds properly (changes to passing), changes take around 5 minues to propogate. 
 
 ![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSkdBdUpmekdMZlFqb1AwbXRTR2dzUXprdmptWUdoTXBFSHBjQTdRWVhOaTN6YlNRNmRDVDZ5Smkxd0JJNWswd2JsQk9TMkRLdExPTWpBN09ucXZnZXFRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImhDbjdkWGY5TWtTU1pPOVEiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
