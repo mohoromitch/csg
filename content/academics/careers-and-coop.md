@@ -4,8 +4,21 @@ date: 2018-03-28T20:58:15-04:00
 weight: 4
 ---
 
+## Career Resources
 
-## CO-OP
+### Career Centre
+
+For students not in the co-op program, there are still resources available to to. The Ryerson Career Centre also provides many of the same resources as the co-op office. You are also able to book appointments for any career related help, this includes resume, cover letter overviews, or other career planning advice. 
+
+The services provided by the Career Centre are also available to alumi five years after graduation. ([source](https://www.ryerson.ca/career/alumni/))
+
+Visit: [https://www.ryerson.ca/career/](https://www.ryerson.ca/career/)
+
+### Third Party
+
+There are many career related resources available online, a lot of them are free! You can find those on the [Online Resources](/academics/online-resources/) page.
+
+## CO-OP Students
 
 ### Program Info
 
@@ -20,10 +33,4 @@ Students in the co-op program are given access to extra resources provided by th
 For more information visit the [co-op office](https://www.ryerson.ca/co-op/) page. Workshops are typically advertised via email.
 
 
-## Career Centre
 
-For students not in the co-op program, there are still resources available to to. The Ryerson Career Centre also provides many of the same resources as the co-op office. You are also able to book appointments for any career related help, this includes resume, cover letter overviews, or other career planning advice. 
-
-The services provided by the Career Centre are also available to alumi five years after graduation. ([source](https://www.ryerson.ca/career/alumni/))
-
-Visit: [https://www.ryerson.ca/career/](https://www.ryerson.ca/career/)
