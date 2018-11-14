@@ -28,7 +28,7 @@ chmod 644 .forward
 nano .forward
 ```
 
-In the open file, list the emails you want to forward mail to (one per line), and then exit and save the program by pressing CTRL+X and then type "y". You should now have your emails forwarded to the email addresses you have listed in there.
+In the open file, list the emails you want to forward mail to (one per line), and then list your CS email (@scs.ryerson.ca) on the last line. Exit and save the program by pressing CTRL+X and then type "y". You should now have your emails forwarded to the email addresses you have listed in there.
 
 ## Using DCS Mail Through a Mail Client
 
