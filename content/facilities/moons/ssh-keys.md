@@ -47,7 +47,7 @@ The key fingerprint is:
 a9:36:01:90:a5:8b:3e:50:ff:18:c0:be:71:a1:f2:28 you@localhost
 ```
 
-Entering a passphase will hamper use of your key by others should it become compromised (unattended computer, theft of key).
+Entering a passphrase will hamper use of your key by others should it become compromised (unattended computer, theft of key). If you opt to use a passphrase, follow [these instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#adding-your-ssh-key-to-the-ssh-agent) to add the passphrase to keychain on macOS so you don't have to enter it in every time you use it.
 
 ### Windows
 
