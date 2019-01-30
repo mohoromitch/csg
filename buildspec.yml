@@ -22,3 +22,4 @@ phases:
     commands:
       - tree public
       - aws s3 sync public s3://wiki.ryecscu.com
+      - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
