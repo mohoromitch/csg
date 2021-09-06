@@ -8,9 +8,9 @@ The Debian GNU/Linux servers known as collectively as "the moons" make up the de
 
 ## Logging In
 
-### Linux or macOS
+### Linux, macOS, or Windows 10 and 11
 
-Students running a unix-like operating system can log into the moons server simply by using the ssh command from your terminal.
+Students running a unix-like operating system or a recent version of Windows (version 1803 or newer) can log into the moons server simply by using the ssh command from your terminal.
 
 ```bash
 ssh [user name]@moon.scs.ryerson.ca
@@ -46,6 +46,6 @@ ssh ryerson
 
 The SSH config file is quite powerful for other purposes such as fowarding ports and setting up proxy jumps. The latter of which is useful in CPS510 for accessing the class database from behind the department firewall.
 
-### Windows
+### Older versions of Windows
 
-Students running Windows must use a separate application such as [PuTTY](https://www.putty.org) or [SSH Secure Shell Client](http://sils.unc.edu/it-services/servers/using-ssh).
+Students running older versions of Windows must use a separate application such as [PuTTY](https://www.putty.org) or [SSH Secure Shell Client](http://sils.unc.edu/it-services/servers/using-ssh).
